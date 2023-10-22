@@ -4,6 +4,9 @@ This project is a YouTube video page created using HTML and CSS. It features a c
 
 # Demo
 
+![YouTube Vido Page](https://github.com/UmitAygunn/YouTube-Video-Page/assets/140657845/e7ae0599-c606-4f2d-8e23-29e2118fc2d1)
+
+
 Live Demo - Explore the live demo of the YouTube video page to view and enjoy a variety of videos presented with an intuitive user interface.
 1) https://65338f4d34f6567da406dae6--spectacular-moxie-4236b6.netlify.app/
 
